@@ -3,7 +3,12 @@
 <!-- Import tailwind css via app.css -->
 <script>
     import "../app.css";
-  </script>
+</script>
+
+<!-- test -->
+<h1 class="text-3xl font-bold underline">
+    Hello world!
+</h1>
 
 <!-- Nav bar -->
 <nav class = "relative w-full flex flex-wrap items-center justify-between py-4 bg-gray-100 text-gray-500 hover:text-gray-700 focus:text-gray-700 shadow-lg navbar navbar-expand-lg navbar-light">
