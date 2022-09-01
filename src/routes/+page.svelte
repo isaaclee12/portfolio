@@ -1,6 +1,6 @@
 <!-- Import tailwind css via app.css -->
 <script>
-    import "../app.css";
+    import "dist/output.css";
 </script>
 
 
