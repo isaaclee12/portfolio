@@ -9,14 +9,19 @@
         <!-- Map projectList.json over multiple div's -->
         {#each projectList as {title, description, url}, index}
             <!-- key = {index} -->
-            <div class="ml-10 card w-96 pr-5 pl-5 bg-base-100 shadow-xl mb-5">
+            <div class="card bg-base-100 shadow-xl my-6 mx-12 p-10">
                 <!-- <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure> -->
                 <div class="card-body">
-                    <h2 class="card-title"><a href={url}>{title}</a></h2>
+                    <h2 class="card-title">
+                        <a href={url} target="_blank"
+                        class="text-xl text-sky-600 hover:text-sky-900 underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out"
+                        >{title}</a>
+                    </h2>
+                    <br>
                     <p>{description}</p>
-                    <div class="card-actions justify-end">
-                        <button class="btn btn-primary">Buy Now</button>
-                    </div>
+                    <!-- <div class="card-actions justify-end">
+                        <button class="btn btn-primary">Check it out!</button>
+                    </div> -->
                 </div>
             </div>
         {/each}
