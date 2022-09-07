@@ -6,14 +6,14 @@
 </script>
 
 <!-- Nav bar -->
-<nav class = "relative w-full flex flex-wrap items-center justify-between py-4 bg-gray-100 text-gray-500 hover:text-gray-700 focus:text-gray-700 shadow-lg navbar navbar-expand-lg navbar-light">
+<nav class = "relative w-full flex flex-wrap items-center justify-between py-4 bg-gray-100 text-gray-500 hover:text-gray-700 focus:text-gray-700 shadow-lg navbar navbar-expand-lg navbar-light sticky top-0">
     <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
-        <div class="collapse navbar-collapse flex-grow items-center" id="navbarSupportedContent">
-            <a class="text-xl text-black" href="/">Navbar</a>
+        <div class="collapse navbar-collapse flex-grow items-center space-x-6" id="navbarSupportedContent">
+            <a class="text-xl text-black" href="/">Isaac Lee</a>
             <!-- Left links -->
             <a href="/">Home</a>
             <a href="/about">About Me</a>
-            <a href="/resume">Resume</a>
+            <a href="/RESUME">Resume</a>
             <a href="/projects">Project List</a>
             <a href="/contact">Contact</a>        
 
@@ -43,5 +43,5 @@
 <slot></slot>
 
 <footer>
-    <p>This is a footer.</p>
+    <!-- <p>This is a footer.</p> -->
 </footer>

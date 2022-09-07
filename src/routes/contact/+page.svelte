@@ -1,1 +1,5 @@
-<h1>call me</h1>
+<h1 class="flex justify-center text-6xl my-16 text-center">Contact</h1>
+
+<pre class="flex justify-center text-m mx-60 mb-10">Email:    <a href="mailto:isaac.wonha.lee@outlook.com" target="_blank" class="text-sky-600 hover:text-sky-900 underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out">isaac.wonha.lee@outlook.com</a></pre>
+<pre class="flex justify-center text-m mx-60 mb-10">Github:    <a href="https://github.com/isaaclee12" target="_blank" class="text-sky-600 hover:text-sky-900 underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out">Click Here!</a></pre>
+<pre class="flex justify-center text-m mx-60 mb-10">LinkedIn:    <a href="https://www.linkedin.com/in/isaac-lee-621873133/" target="_blank" class="text-sky-600 hover:text-sky-900 underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out">Click Here!</a></pre>
