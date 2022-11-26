@@ -154,6 +154,9 @@
 				<ul class="copyright">
 					<li>&copy; Isaac Lee</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
+				<ul class="copyright">
+					<li>This website is made in SvelteKit, hosted on my RaspberryPi in a Linux environment, and linked to my domain via Cloudflare.</li>
+				</ul>
 			</section>
 
 		<!-- Scripts -->
