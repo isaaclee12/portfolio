@@ -2333,7 +2333,7 @@ input, select, textarea {
 		}
 
 			.icon.major:before {
-				-moz-osx-font-smoothing: grayscale;
+				/* -moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				display: inline-block;
 				font-style: normal;
@@ -2342,7 +2342,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
-				font-weight: 400;
+				font-weight: 400; */
 			}
 
 			.icon.major:before {
@@ -2354,7 +2354,8 @@ input, select, textarea {
 
 	.image {
 		border-radius: 4px;
-		border: 0;
+		width: auto;
+		border: 2px solid black;
 		display: inline-block;
 		position: relative;
 	}
@@ -2592,10 +2593,10 @@ input, select, textarea {
 		}
 
 			ul.major-icons li .icon {
-				/* -moz-transform: rotate(45deg);
+				-moz-transform: rotate(45deg);
 				-webkit-transform: rotate(45deg);
 				-ms-transform: rotate(45deg);
-				transform: rotate(45deg); */
+				transform: rotate(45deg);
 				border-radius: 4px;
 				border: solid 1px rgba(144, 144, 144, 0.5);
 				display: inline-block;
@@ -2928,7 +2929,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
-    h1, strong {
+    h1, h1.strong {
         color: white;
     }
 
@@ -3519,6 +3520,13 @@ input, select, textarea {
 
 	}
 
-	.svg-icon {
-		margin: 0;
+	.skills-list {
+		margin-top: 4em;
+	}
+	
+	.skills-list-item {
+		margin-top: -2em;
+		margin-bottom: 4em;
+		font-family: "Lucida Console", "Courier New", monospace;
+		font-size: 0.94em;
 	}

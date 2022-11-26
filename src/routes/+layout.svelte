@@ -54,16 +54,12 @@
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
 							<ul class="major-icons">
-								<li><span class="icon">
-                                    <img src="assets/react-icon.svg" alt="react-icon"/>
-                                </span></li>
-								<li><span class="icon">
-                                    <img src="assets/github-icon.svg" alt="github-icon"/>
-                                </span></li>
-								<li><span class="icon solid style3 major"></span></li>
-								<li><span class="icon solid style4 major"></span></li>
-								<li><span class="icon solid style5 major"></span></li>
-								<li><span class="icon solid style6 major"></span></li>
+								<li><span class="icon style1 major brands fa-node-js"></span></li>
+								<li><span class="icon style2 major brands fa-react"></span></li>
+								<li><span class="icon style3 major brands fa-python"></span></li>
+								<li><span class="icon style4 major brands fa-github"></span></li>
+								<li><span class="icon style5 major brands fa-docker"></span></li>
+								<li><span class="icon style6 major brands fa-cloudflare"></span></li>
 							</ul>
 						</div>
 						<div class="col-6 col-12-medium">
@@ -71,12 +67,14 @@
 								<h2>Master of Technologies, from Front-End to Back-End</h2>
 							</header>
 							<p>Mastered broad domain knowledge, technologies, and their uses. Demonstrated ability to adapt on the fly.</p>
-							<ul>
-								<li>Languages:	Python, C++, JavaScript, TypeScript, HTML, CSS</li>
-								<li>Utilities:	Git, Github, React, Django, Node, npm</li>
-								<li>Databases: SQL, MySQL, SQLite3</li>
-								<li>Infrastructure:	AWS, Azure, Docker, Linux, Cloudflare, Nginx</li>
-							</ul>
+							
+							<div class="skills-list">
+								<p >Languages:</p><p class="skills-list-item">Python, C++, JavaScript, TypeScript, HTML, CSS</p>
+								<p >Utilities:</p><p class="skills-list-item">Git, Github, React, Django, Node, npm</p>
+								<p >Databases:</p><p class="skills-list-item">SQL, MySQL, SQLite3</p>
+								<p >Infrastructure:</p><p class="skills-list-item">AWS, Azure, Docker, Linux, Cloudflare, Nginx</p>
+							</div>
+						
 						</div>
 					</div>
 				</div>
@@ -88,30 +86,42 @@
 					<header class="major">
 						<h2>Projects</h2>
 					</header>
-					<p>I've completed several solo and collaborative projects.</p>
+					<p>Isaac Lee has designed and developed several projects as a solo creator and a team player in remote Agile work environments.</p>
 					<div class="row gtr-150">
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="assets/pic02.jpg" alt="" /></span>
-							<h3>Magna feugiat lorem</h3>
-							<p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+							<span class="image fit"><img src="assets/ScheduleMaker.jpg" alt=""/></span>
+							<h3>ScheduleMaker</h3>
+							<p>A webtool designed to help small businesses keep track of their employee's schedules.  
+								Created with 
+								<strong>Javascript</strong>, 
+								<strong>React</strong>, 
+								<strong>Django</strong>, 
+								& <strong>MySQL</strong>.</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/ScheduleMaker" target="_blank" class="button">More</a></li>
 							</ul>
 						</div>
+
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="assets/pic03.jpg" alt="" /></span>
-							<h3>Magna feugiat lorem</h3>
-							<p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+							<span class="image fit"><img src="assets/twitbot.jpg" alt="" /></span>
+							<h3>RL for Social Media Engagement</h3>
+							<p>A reinforcement learning agent intended to maximize engagement on Twitter by means of liking, retweeting, following, and more. Created with <strong>Python</strong>.</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/rl-social-media-engagment" target="_blank" class="button">More</a></li>
 							</ul>
 						</div>
+
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="assets/pic04.jpg" alt="" /></span>
-							<h3>Magna feugiat lorem</h3>
-							<p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+							<span class="image fit"><img src="assets/policemap.jpg" alt="" /></span>
+							<h3>Racial Disparities In Police Killings</h3>
+							<p>A data visualization of racial disparities in police killings by US state. Created with 
+								<strong>HTML</strong>, 
+								<strong>CSS</strong>, 
+								<strong>Javascript</strong>, 
+								<strong>Flask</strong>, 
+								& <strong>MongoDB</strong>	.</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/racial-disparities-in-police-killings-by-state" target="_blank" class="button">More</a></li>
 							</ul>
 						</div>
 					</div>
@@ -122,12 +132,12 @@
 			<section id="four" class="main style2 special">
 				<div class="container">
 					<header class="major">
-						<h2>Ipsum feugiat consequat?</h2>
+						<h2>Interested in reaching out?</h2>
 					</header>
-					<p>Sed lacus nascetur ac ante amet sapien.</p>
+					<p>Please contact me via email or LinkedIn.</p>
 					<ul class="actions special">
-						<li><a href="#" class="button wide primary">Sign Up</a></li>
-						<li><a href="#" class="button wide">Learn More</a></li>
+						<li><a href="mailto:isaac.wonha.lee@outlook.com" target="_blank" class="button wide primary">Email</a></li>
+						<li><a href="https://www.linkedin.com/in/isaac-lee-621873133/" target="_blank" class="button wide">LinkedIn</a></li>
 					</ul>
 				</div>
 			</section>
@@ -135,14 +145,14 @@
 		<!-- Footer -->
 			<section id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="https://twitter.com/isaacwonhalee" target="_blank" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<!-- <li><a href="#" target="_blank" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+					<li><a href="https://www.linkedin.com/in/isaac-lee-621873133/" target="_blank" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://github.com/isaaclee12" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="mailto:isaac.wonha.lee@outlook.com" target="_blank" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					<li>&copy; Isaac Lee</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 			</section>
 
