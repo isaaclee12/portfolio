@@ -23,6 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "^6.2.1",
 		"daisyui": "^2.25.0",
 		"svelte-kit": "^1.0.0"
 	}
