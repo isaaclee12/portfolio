@@ -3,6 +3,7 @@
 <!-- Import tailwind css via app.css -->
 <script>
     import "../app.css";
+	import projectList from '../projectList.json'
 </script>
 
 	<body class="is-preload">
@@ -124,6 +125,12 @@
 								<li><a href="https://github.com/isaaclee12/racial-disparities-in-police-killings-by-state" target="_blank" class="button">More</a></li>
 							</ul>
 						</div>
+
+			
+						<ul class="actions special">
+							<li><a href="/projects" class="button wide primary">VIEW ALL PROJECTS</a></li>
+						</ul>
+
 					</div>
 				</div>
 			</section>
