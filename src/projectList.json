@@ -1,0 +1,47 @@
+[
+    {
+        "title": "UDP Linux Server Client",
+        "description": "A program created to allow communication between two Linux VMs",
+        "url": "https://github.com/isaaclee12/UDP_Linux_Server_Client"
+    },
+    {
+        "title": "UVM Statistics and Data Science Club Website",
+        "description": "A revamp for the UVM Statistics and Data Science Club's website. Built using a Django framework, Python, Bootstrap, SQLite3, and Shell.",
+        "url": "https://github.com/isaaclee12/statistics-and-data-science-club-v2"
+    },
+    {
+        "title": "Using RL to Maximize Social Media Engagement",
+        "description": "A reinforcement learning agent that utilizes tweepy and a multi-armed bandits agent to maximize engagement on Twitter via likes, retweets, and follows.",
+        "url": "https://github.com/isaaclee12/rl-social-media-engagment"
+    },
+    {
+        "title": "Racial Disparities in Police Killings by US State",
+        "description": "2nd Place Winner for Advanced App Projects in the UVM CS Fair, An interactive map that shows the disparity between state demographics and police killings.",
+        "url": "https://github.com/isaaclee12/racial-disparities-in-police-killings-by-state"
+    },
+    {
+        "title": "Leap Motion Element Game",
+        "description": "An in-browser Leap Motion game that simulates the “bending” of the four elements (similar to the Avatar: The Last Airbender series).",
+        "url": "https://github.com/isaaclee12/Leap_Motion_Element_Game"
+    },
+    {
+        "title": "Symmetric Cryptographer",
+        "description": "A C++ program that can encrypt and decrypt a string using a public key-based algorithm.",
+        "url": "https://github.com/isaaclee12/Cryptographer"
+    },
+    {
+        "title": "Food Role Playing Game",
+        "description": "A turn-based combat game made in C++.",
+        "url": "https://github.com/isaaclee12/Food-Role-Playing-Game"
+    },
+    {
+        "title": "Data Cleaning Lesson",
+        "description": "A program used to teach others how to use python to clean data.",
+        "url": "https://github.com/isaaclee12/DataCleaningLesson"
+    },
+    {
+        "title": "Schedule Compiler",
+        "description": "Compiles user’s schedules to see what meeting time works best for everyone.",
+        "url": "https://github.com/isaaclee12/Schedule-Compiler"
+    }
+]

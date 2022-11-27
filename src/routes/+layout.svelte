@@ -88,6 +88,9 @@
 						<h2>Projects</h2>
 					</header>
 					<p>Isaac Lee has designed and developed several projects as a solo creator and a team player in remote Agile work environments.</p>
+
+
+					<!-- ROW 1 -->
 					<div class="row gtr-150">
 						<div class="col-4 col-12-medium">
 							<span class="image fit"><img src="assets/ScheduleMaker.jpg" alt=""/></span>
@@ -99,7 +102,7 @@
 								<strong>Django</strong>, 
 								& <strong>MySQL</strong>.</p>
 							<ul class="actions special">
-								<li><a href="https://github.com/isaaclee12/ScheduleMaker" target="_blank" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/ScheduleMaker" target="_blank" class="button">View</a></li>
 							</ul>
 						</div>
 
@@ -108,7 +111,7 @@
 							<h3>RL for Social Media Engagement</h3>
 							<p>A reinforcement learning agent intended to maximize engagement on Twitter by means of liking, retweeting, following, and more. Created with <strong>Python</strong>.</p>
 							<ul class="actions special">
-								<li><a href="https://github.com/isaaclee12/rl-social-media-engagment" target="_blank" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/rl-social-media-engagment" target="_blank" class="button">View</a></li>
 							</ul>
 						</div>
 
@@ -122,16 +125,73 @@
 								<strong>Flask</strong>, 
 								& <strong>MongoDB</strong>	.</p>
 							<ul class="actions special">
-								<li><a href="https://github.com/isaaclee12/racial-disparities-in-police-killings-by-state" target="_blank" class="button">More</a></li>
+								<li><a href="https://github.com/isaaclee12/racial-disparities-in-police-killings-by-state" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
+					</div>
+
+
+					<!-- ROW 2 -->
+					<div class="row gtr-150">
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/chedd.jpg" alt=""/></span>
+							<h3>CheddyBot</h3>
+							<p>A project where I used Discord's bot API to create a bot account for my university's gaming club. Created in JavaScript.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/CheddyBot" target="_blank" class="button">View</a></li>
 							</ul>
 						</div>
 
-			
-						<ul class="actions special">
-							<li><a href="/projects" class="button wide primary">VIEW ALL PROJECTS</a></li>
-						</ul>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/uvmstatsclub.png" alt="" /></span>
+							<h3>UVM S&DS Club Website</h3>
+							<p>A project where I used Django, HTML, and Boostrap to revise the website for UVM's Statistics and Data Science Club.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/statistics-and-data-science-club-v2" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
 
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/four-elements.jpg" alt="" /></span>
+							<h3>Leap Motion Element Game</h3>
+							<p>An in-browser game that controlled by a Leap Motion device. Uses KNN to map hand gestures to elemental attacks. Made with JS</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/Leap_Motion_Element_Game" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
 					</div>
+
+
+					<!-- ROW 3 -->
+					<div class="row gtr-150">
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/lock.jpg" alt=""/></span>
+							<h3>Symmetric Cryptographer</h3>
+							<p>A C++ program that can be used to encrypt and decrypt a string.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/Symmetric-Cryptographer" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
+
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/foodfight.jpg" alt="" /></span>
+							<h3>Food Role Playing Game</h3>
+							<p>A role-playing game where you fight different foods. Made in C++</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/Food-Role-Playing-Game" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
+
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="assets/schedule.jpg" alt="" /></span>
+							<h3>Schedule-Compiler</h3>
+							<p>A text program that helps people line up their schedules. Made in python.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/isaaclee12/Schedule-Compiler" target="_blank" class="button">View</a></li>
+							</ul>
+						</div>
+					</div>
+
 				</div>
 			</section>
 

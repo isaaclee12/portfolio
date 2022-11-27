@@ -295,6 +295,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+		margin-bottom: 1em;
 	}
 
 		.row > * {
@@ -2710,7 +2711,7 @@ input, select, textarea {
 		height: 2.75em;
 		letter-spacing: 0.125em;
 		line-height: 2.75em;
-		padding: 0 2em;
+		padding: 0 4em;
 		text-align: center;
 		text-decoration: none;
 		text-indent: 0.125em;
