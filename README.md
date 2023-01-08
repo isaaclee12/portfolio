@@ -2,6 +2,8 @@
 
 <h4 align="center"> https://isaaclee.org/ </h4>
 
+<img align="center" style="width=50%;" src="static/assets/me_coding.gif" alt="gif of me coding"/>
+
 <p align="center">
 <br>
 </p>
