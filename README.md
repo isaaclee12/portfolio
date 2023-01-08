@@ -3,7 +3,7 @@
 <h4 align="center"> https://isaaclee.org/ </h4>
 
 <div align="center">
-	<img style="width:70%;" src="demo.gif" alt="A gif of the website"/>
+	<img style="max-width:70%;" src="demo.gif" alt="A gif of the website"/>
 </div>
 
 <p align="center">
