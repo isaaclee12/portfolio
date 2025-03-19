@@ -46,7 +46,7 @@
 					</div>
 				</div>
 		
-				<div class="container ">
+				<div class="container new-item">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="assets/2U_XpertAssistantDemo.gif" alt="" /></span>
