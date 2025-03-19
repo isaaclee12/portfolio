@@ -26,8 +26,8 @@
 					</ul>
 				</div>
 			</section>
-
-		<!-- One -->
+		
+			<!-- One -->
 			<section id="one" class="main style1">
 				<div class="container">
 					<div class="row gtr-150">
@@ -39,10 +39,28 @@
 								Planned, managed, and developed diverse projects. Mastered broad domain knowledge, technologies, and their uses.
 								Demonstrated ability to adapt on the fly. Achieved and exceeded several product goals for different clients.
 							</p>
-
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="assets/me_coding.gif" alt="" /></span>
+						</div>
+					</div>
+				</div>
+		
+				<div class="container ">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="assets/2U_XpertAssistantDemo.gif" alt="" /></span>
+						</div>
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Achievements</h2>
+							</header>
+							<ul>
+								<li>Architected robust AI systems that <strong>increased revenue prospects by over 150% in 6 weeks</strong></li>
+								<li>Designed and built incredible applications for a <strong>prestigious international education platform</strong></li>
+								<li>Owned solutions to resolve problems that affected <strong>thousands of students around the world at a time</strong></li>
+								<li>Mentored an intern engineer to foster an <strong>environment focused on learning and growth</strong></li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -60,7 +78,13 @@
 								<li><span class="icon style3 major brands fa-python"></span></li>
 								<li><span class="icon style4 major brands fa-github"></span></li>
 								<li><span class="icon style5 major brands fa-docker"></span></li>
-								<li><span class="icon style6 major brands fa-cloudflare"></span></li>
+								<li><span class="icon style6 major fa-solid fa-snowflake"></span></li>
+								<li><span class="icon style7 major brands fa-slack"></span></li>
+								<li><span class="icon style8 major brands fa-figma"></span></li>
+								<li><span class="icon style9 major brands fa-aws"></span></li>
+								<li><span class="icon style10 major fa-solid fa-comments"></span></li>
+								<li><span class="icon style11 major fa-solid fa-keyboard"></span></li>
+								<li><span class="icon style12 major brands fa-cloudflare"></span></li>
 							</ul>
 						</div>
 						<div class="col-6 col-12-medium">
@@ -70,10 +94,13 @@
 							<p>Mastered broad domain knowledge, technologies, and their uses. Demonstrated ability to adapt on the fly.</p>
 							
 							<div class="skills-list">
-								<p >Languages:</p><p class="skills-list-item">Python, C++, JavaScript, TypeScript, HTML, CSS</p>
-								<p >Utilities:</p><p class="skills-list-item">Git, Github, React, Django, Node, npm</p>
-								<p >Databases:</p><p class="skills-list-item">SQL, MySQL, SQLite3</p>
-								<p >Infrastructure:</p><p class="skills-list-item">AWS, Azure, Docker, Linux, Cloudflare, Nginx</p>
+								<p>Languages:</p><p class="skills-list-item">Python, JavaScript, TypeScript, HTML, CSS, Java, C++</p>
+								<p>Frameworks/Utilities:</p><p class="skills-list-item">Django, Generative AI (OpenAI), React, Next.js, Redux </p>
+								<p>Databases:</p><p class="skills-list-item">SQL (PostgreSQL, MySQL), NoSQL (MongoDB)</p>
+								<p>Software Development:</p><p class="skills-list-item">Development	APIs, UI/UX, Agile, Lean, Accessibility, A/B Testing</p>
+								<p>Version Control & Ci/CD:</p><p class="skills-list-item">Control & CI/CD	Git/Github, GoCD, ArgoCD, Snowflake, Jenkins</p>
+								<p>DevOps:</p><p class="skills-list-item">Docker, Kubernetes, AWS, Kafka, Terraform</p>
+								<p>Other:</p><p class="skills-list-item">Slack, Jira, Figma, Written and Verbal Communication, Problem-Solving Skills</p>
 							</div>
 						
 						</div>
@@ -222,7 +249,7 @@
 					<li>&copy; Isaac Lee</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 				<ul class="copyright">
-					<li>This website is made in SvelteKit, hosted on my RaspberryPi in a Linux environment, and linked to my domain via Cloudflare.</li>
+					<!-- <li>This website is made in SvelteKit, hosted on my RaspberryPi in a Linux environment, and linked to my domain via Cloudflare.</li> -->
 				</ul>
 			</section>
 
